@@ -2,12 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ansh!;" />
 </h1>
 <br>
-<div style="border-bottom: 0.667px solid black;">
-    - 🔥 Passionate Full Stack Developer building scalable web applications with React, Next.js, Node.js, and Firebase.<br>
-    - 🌐 Focused on modern web technologies and creating intuitive user experiences from **frontend to backend**.<br>
-    - 💡 Problem Solver with a keen interest in tackling complex coding challenges and optimizing performance.<br>
-    - 🚀 Continuous Learner constantly exploring new tools and frameworks to stay ahead in the fast-evolving tech landscape.
-</div>
+
+
+- 🔥 **Passionate Full Stack Developer** building scalable web applications with **React, Next.js, Node.js**, and **Firebase**.
+- 🌐 **Focused on modern web technologies** and creating intuitive user experiences from **frontend to backend**.
+- 💡 **Problem Solver** with a keen interest in tackling complex coding challenges and optimizing performance.
+- 🚀 **Continuous Learner** constantly exploring new tools and frameworks to stay ahead in the fast-evolving tech landscape.
+
+<p align="left">
+</p>
 
 ## 
 
