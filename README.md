@@ -21,31 +21,27 @@
 <div>
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
 </div>
-<br>
 
 ### Frontend Development
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,tailwind,figma" />
 </div>
-<br>
 
 ### Backend Development
 <div>
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </div>
-<br>
 
 ### Database
 <div>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </div>
-<br>
 
 ### Backend as a Service
 <div>
     <img src="https://skillicons.dev/icons?i=firebase" />
 </div>
-<br>
+
 
 ### Tools
 <div>
