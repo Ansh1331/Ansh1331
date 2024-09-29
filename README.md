@@ -17,37 +17,37 @@
 
 <h2 align="center">⚒️ Skills ⚒️</h2>
 
-Programming Languages
+### Programming Languages
 <div>
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
 </div>
 <br>
 
-Frontend Development
+### Frontend Development
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,tailwind,figma" />
 </div>
 <br>
 
-Backend Development
+### Backend Development
 <div>
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </div>
 <br>
 
-Database
+### Database
 <div>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </div>
 <br>
 
-Backend as a Service
+### Backend as a Service
 <div>
     <img src="https://skillicons.dev/icons?i=firebase" />
 </div>
 <br>
 
-Tools
+### Tools
 <div>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,postman" />
 </div>
