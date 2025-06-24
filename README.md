@@ -17,30 +17,34 @@
 
 <h2 align="center">⚒️ Skills ⚒️</h2>
 
-### Programming Languages
+### 🧑‍💻 Languages
 <div>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c,cpp,html,css" />
 </div>
 
-### Frontend Development
+### 💻 Frontend Frameworks & Libraries
 <div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+<!--   <img src="https://img.shields.io/badge/ShadCN_UI-%23171717.svg?style=for-the-badge&logo=data:image/svg+xml;base64," alt="ShadCN UI" /> -->
 </div>
 
-### Backend Development
+### 🧠 Backend & Databases
 <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma" />
 </div>
 
-### Database
+### ⚙️ Tools & DevOps
 <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,postman,vercel,aws,docker" />
 </div>
 
-### Backend as a Service
+### 🔌 APIs & Integrations
 <div>
-    <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://img.shields.io/badge/Clerk-%23ffcc00?style=for-the-badge&logo=clerk&logoColor=black" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Vonage-1A1F71?style=for-the-badge&logo=vonage&logoColor=white" alt="Vonage" />
+  <img src="https://img.shields.io/badge/REST%20API-%23007ec6.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
 </div>
+
 
 
 ### Tools
