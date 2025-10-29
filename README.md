@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
 <p align="left">
 
-- 🔥 **Passionate Full Stack Developer** building scalable web applications with **React, Next.js, Node.js**, and **Firebase**.
+- 🔥 **Passionate Full Stack Developer** building scalable web applications with **React, Next.js, Node.js, Mongo DB, Vonage, PostgreSQL, AI, AWS**.
 - 🌐 **Focused on modern web technologies** and creating intuitive user experiences from **frontend to backend**.
 - 💡 **Problem Solver** with a keen interest in tackling complex coding challenges and optimizing performance.
 - 🚀 **Continuous Learner** constantly exploring new tools and frameworks to stay ahead in the fast-evolving tech landscape.
